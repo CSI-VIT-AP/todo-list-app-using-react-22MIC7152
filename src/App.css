@@ -3,11 +3,13 @@
   padding: 0;
 }
 .navbar{
-  background-color: #333;
+  background-color: #FA9884;
   color: white;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  size: 20px;
 }
 body{
-  background-color: #333;
+  background-color: #FA9884;
 }
 .main-container{
   display: flex;
@@ -18,7 +20,7 @@ body{
 .center-container{
   height: 500px;
   width: 350px;
-  background-color: black;
+  background-color: #E74646;
   border-radius: 20px;
   padding-top: 30px;
   padding: 20px;
@@ -27,7 +29,7 @@ body{
   padding: 4px;
   color: white;  
   /* text-align: center; */
-  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-transform: uppercase;
   text-align: center;
   padding-bottom: 5px;
